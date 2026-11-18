@@ -6,8 +6,8 @@ Tecnología de Desarrollos de Sistemas Informáticos
 👨‍🏫 Profesor: Mag. Carlos Adolfo Beltrán Castro
 👨‍💻 Estudiantes:
 
-* [Nombre del estudiante 1] — Cédula: [__________]
-* [Nombre del estudiante 2] — Cédula: [__________]
+Andrés Eduardo Hernández Ochoa — Cédula: 1095921955
+Miguel Ángel Herrera Viviescas — Cédula: 1097912469
 
 ![Captura de pantalla](docs/captura_inicio.png)
 *Imagen de Pantalla Inicial con Menú del Proyecto*
