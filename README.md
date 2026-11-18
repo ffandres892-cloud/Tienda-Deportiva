@@ -7,6 +7,7 @@ Tecnología de Desarrollos de Sistemas Informáticos
 👨‍💻 Estudiantes:
 
 Andrés Eduardo Hernández Ochoa — Cédula: 1095921955
+
 Miguel Ángel Herrera Viviescas — Cédula: 1097912469
 
 ![Captura de pantalla](docs/captura_inicio.png)
